@@ -5,6 +5,12 @@ The module allows you to calculate area of figure by it's parameters.
 
 ----------
 
+### Installation ###
+
+    pip install AreaCalcF
+
+----------
+
 
 ### Using ###
 
