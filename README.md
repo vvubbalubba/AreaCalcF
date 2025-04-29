@@ -26,6 +26,10 @@ Calculating circle area with radius=5 using the `calc_area()` function:
 
     s = Area(figure_type="circle", r=5).calc_area()
 
+Calculating triangle area with 3 sides using the `calc_area()` function:
+
+    s = Area(figure_type="triangle", a=3, b=4, c=5).calc_area()
+
 ----------
 
 
